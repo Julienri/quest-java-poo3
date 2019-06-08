@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nature",
+            "request": "launch",
+            "mainClass": "Nature",
+            "projectName": "quest-java-poo3_20e9fb0c"
+        }
+    ]
+}
